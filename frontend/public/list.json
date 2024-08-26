@@ -1,0 +1,95 @@
+[
+{
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image":"book3.jpg"
+},
+
+{
+    "id": 2,
+    "name": "Comic Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 50,
+    "category": "Comics",
+    "image":"book3.jpg"
+},
+{
+    "id": 3,
+    "name": "Adventure Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image":"book3.jpg"
+},
+
+{
+    "id": 4,
+    "name": "sci-fi Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 100,
+    "category": "Sci-fi",
+    "image":"book3.jpg"
+},
+
+{
+    "id": 5,
+    "name": "cooking Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image":"book3.jpg"
+},
+
+{
+    "id": 6,
+    "name": "Animal Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 100,
+    "category": "Animal",
+    "image":"book3.jpg"
+},
+{
+    "id": 7,
+    "name": "Travel Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image":"book3.jpg"
+},
+{
+    "id": 8,
+    "name": "Cartoon Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 200,
+    "category": "Cartoon",
+    "image":"book3.jpg"
+},
+{
+    "id": 9,
+    "name": "science Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image":"book3.jpg"
+},
+{
+    "id": 10,
+    "name": "Nature Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 80,
+    "category": "Nature",
+    "image":"book3.jpg"
+},
+{
+    "id": 11,
+    "name": "Gardening Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image":"book3.jpg"
+}
+
+]
